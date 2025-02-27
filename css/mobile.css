@@ -19,3 +19,7 @@ body{
     margin: 15px;
     cursor: pointer;
    }
+   .product-images-container{
+    display: flex;
+    justify-content: center;
+   }
